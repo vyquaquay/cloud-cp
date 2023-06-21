@@ -1,0 +1,445 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:720px) {
+    .leftbox {display:none};
+	.rightbox {display:none};
+}
+body{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#F48172;
+	background:url(../img/bg1.jpg) repeat-x;
+	/* background-color: #F48172; */
+	background-size: cover;
+}
+/* head{
+	background-color: #F48172;
+} */
+img{
+	border:none;
+}
+
+a{
+	color:#666;
+	text-decoration:none;
+}
+
+a:hover{
+	color: blue;
+}
+
+p{
+	margin-left:10px;
+}
+
+
+.frame{
+	margin:0 auto;
+	width:856px;
+	color:#F48172;
+}
+
+.top_banner{
+	background-color:#f7f9f8;
+	height:80px;
+}
+
+.logo{
+	width:158px;
+	float:left;
+}
+
+.logo img{
+	margin-top: 20px;
+	margin-left:20px;
+}
+
+.top_banner .shoppingcart{
+	width:150px;
+	margin-top:15px;
+	margin-right:15px;
+	float:right;
+}
+.top_banner .shoppingcart .glyphicon glyphicon-shopping-cart{
+    width: 30px;
+    height: 30px;
+}
+
+.main_menu * a{
+	color:#FFFFFF;
+	background-color: #FFFFFF;
+}
+
+.main_menu * a:hover{
+	color:#CC0000;
+}
+
+
+.main_menu .menuleft{
+	float:left;
+	background: url(../img/btn_left_part.png);
+	width:170px;
+	height: 38px;
+	background-color: #FFFFFF;
+}
+.main_menu .menumid{
+	float:left;
+	background: url(../img/btn_mid_part.png);
+	width:170px;
+	height: 38px;
+	background-color: #FFFFFF;
+}
+.main_menu .menuright{
+	float:left;
+	background: url(../img/btn_right_part.png);
+	width:170px;
+	height: 38px;
+	background-color: #FFFFFF;
+}
+
+.menutext{
+	text-align:center;
+	margin-top:10px;
+	color:black;
+	font-size:13px;
+}
+
+.space{
+	height:20px;
+	margin-top:30px;
+}
+
+.space2{
+	margin-top:10px;
+}
+
+.space3{
+	margin-top:5px;
+}
+
+.main_body{
+	background-color:#efefef;
+    background-image: url(ArtSuzuranE2FullFeature.png);
+}
+
+.menupanel{
+	margin-left:5px;
+	width:207px;
+	float:left;
+}
+
+.bodypanel{
+	margin-left:10px;
+	float:left;
+}
+
+.topbanner{
+	background:url(../img/logo-2.png) ;
+	width:682px;
+	height:182px;
+        margin: 0 auto;
+}
+
+.topbanner .btnorder{
+	margin-left:100px;
+	margin-top:50px;
+        margin-bottom: 10px;
+}
+
+.submenu{
+	width:207px;
+}
+
+.menubg1{
+	background:url(../img/sub_menu1_body.png) repeat-y;
+}
+
+.menutitle{
+	margin-left:10px;
+	background-image:url(../img/menu_title_bg.png);
+	width:186px;
+	height:48px;
+}
+
+.menutitle .text{
+	margin-left:35px;
+}
+
+.menutitle .text .bullet{
+	float:left;
+	margin-top:8px;
+	padding-top: 8px;
+
+        
+}
+
+.menutitle .text .text2{
+	margin-top:15px;
+	margin-left:5px;
+	float:left;
+	color:#000000;
+	font-family: 'Lobster', cursive;
+	font-size: medium;
+}
+
+.submenutext{
+	margin-left:50px;
+	margin-top:5px;
+}
+
+.submenutext .text{
+	margin-top:1px;
+	height:20px;
+	border-bottom:dotted 1px;
+	border-color: red;
+	width:130px;
+}
+
+.description .image{
+	text-align:center;
+	margin-top:5px;
+}
+
+.description .text{
+	margin-top:5px;
+	text-align:center;
+}
+
+.description .price{
+	margin-top:5px;
+	text-align:center;
+	color:#FF3300;
+	font:bold;
+}
+
+.submenutext .text .submenubullet {
+	font-size:10px;
+	color:#CC0000;
+}
+
+.products{
+	background-color:#FFFFFF;
+}
+
+.item{
+	float:left;
+}
+
+.footer{
+	margin-top:10px;
+}
+
+.footer .paypal{
+	width:230px;
+	text-align:center;
+	float:left
+}
+
+.footer .rightpanel{
+	float:right;
+	margin-left:30px;
+}
+
+.copyright{
+	margin-top:5px;	
+	text-align:right;
+	font-size:10px;
+}
+
+.product_table{
+	margin-left:10px;
+}
+
+.polices_text{
+	width:595px;
+}
+
+.polices_text p{
+	margin-bottom:0px;
+}
+
+
+.textprice{
+	color: blue;
+}
+
+.footer .rightpanel .menu a{
+	color:#999999;
+	text-decoration:none;
+}
+
+.footer .rightpanel .menu a:hover{
+	color:#0066FF;
+}
+
+.footer .menu{
+	text-align:right;
+}
+
+.contactinfo{
+	margin-left:10px;
+}
+
+h3{
+	margin-top:0px;
+	margin-left:10px;
+	font-size:12px;
+}
+
+form{
+	margin:0px 0px 0px 0px;
+}
+
+.logout{
+	text-align:right;
+	margin-right:20px;
+}
+
+.logout a{
+	text-decoration:underline;
+}
+
+.rightline{
+	border-right:1px solid #CCCCCC;
+}
+
+.pagenumber{
+	width:602px;
+	text-align:center;
+}
+
+.pagenumber a{
+	color:#666666;
+	text-decoration:underline;
+}
+
+.pagenumber a:hover{
+	color:#CC0000;
+}
+
+.productname a{
+	color:#666666;
+	text-decoration:underline;
+}
+
+.productname a:hover{
+	color:#CC0000;
+}
+
+.findform{
+	text-align:center;
+}
+
+.invoice{
+	text-decoration:none;
+}
+
+.invoiceleft{
+	float:left;
+	width:250px;
+}
+
+.invoiceright{
+	float:right;
+	width:250px;
+	margin-right:10px;
+}
+
+.invoicetext{
+	text-align:center;
+	background-color:#1e93c9;
+	color:#FFFFFF;
+	height:20px;
+	margin-right:10px;
+	padding-top:5px;
+}
+.menutitle .text .bullet2{
+    float: right;
+    margin-top:13px;
+    padding_top: 13px;
+}
+.menubg1 .submenutext .text a{
+	color:blue;
+	
+}
+.description .text a{
+	color: blue;
+}
+.productlist .products .polices_text p{
+	font-size: small;
+}
+.productlist .products .polices_text h3{
+	font-size: medium;
+}
+.menubg1 .submenutext .text a:hover{
+	color:orange;
+	
+}
+.description .text {
+	color: blue;
+}
+.description .price {
+	font-size: small;
+	color: orangered;
+}
+.productlist .products .product_table{
+	color:#0066FF;
+	font-size: small;
+}
+.productlist .products .product_table .textprice{
+	color:orangered;
+	font-size: medium;
+}
+.main_menu .menuleft .menutext a{
+	color: #000000;
+}
+.main_menu .menuleft .menutext a:hover{
+	color: red;
+}
+.main_menu .menumid .menutext a{
+	color: #000000;
+}
+.main_menu .menumid .menutext a:hover{
+	color: red;
+}
+.main_menu .menuright .menutext a{
+	color: #000000;
+}
+.main_menu .menuright .menutext a:hover{
+	color: red;
+}
+.top_banner{
+	background-color: greenyellow;
+}
+.Register .Registed .Registed_detail #form table{
+	font-size: small;
+	color: #0b0c0b;
+	background-color: #999999;
+}
+.leftbox {
+	float:left;
+	width:27.5%;
+	height: 1050px; 
+        margin: 0 auto;
+		background-color: #F48172;
+	
+}
+.rightbox{
+	float:right; 
+	width:27.5%;
+	height: 1050px;
+        margin: 0 auto;
+		background-color: #F48172;
+}
+.top_banner .shoppingcart a{
+	color: red;
+        font-size: 18px;
+}
+.top_banner .shoppingcart a:hover{
+	color: blue;
+}
+marquee {
+	color: red;
+}
+
