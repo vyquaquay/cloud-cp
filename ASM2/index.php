@@ -14,7 +14,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="google-site-verification" content="WWfmdAzbuVnt8F45gamZG9yEZVSbWsU-rs93ZDsnh0M" />
 
-<title>Vyquaquay Gacha Seg Toy Shop</title>
+<title>ATN Toy Shop</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -277,9 +277,9 @@ function showSlides1() {
 	<? require("topbanner.php") ?>
 	<? require("mainmenu.php") ?>
     <div class="space"></div>
-	<marquee behavior="scroll" bgcolor="greenyellow" width="856">Welcome to Vyquaquay Gacha SEGS Toys Shop. We sales <strong>best</strong> toys as lowest price on market.</marquee>
+	<marquee behavior="scroll" bgcolor="greenyellow" width="856">Welcome to ATN Toys Shop. We sales <strong>best</strong> toys as lowest price on market.</marquee>
     <div class="main_body">
-        <div class="main_body_top"><img src="img/Artboard_1.png" width="856" height="100" /></div>
+        <div class="main_body_top"><img src="img/Artboard_1.png" width="856" height="120" /></div>
         
             <? require("menupanel.php") ?>
             

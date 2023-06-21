@@ -12,7 +12,7 @@
 
 <body>
 	<div class="login">
-    <img src="img/logo-2.png" width="250" height="67" />
+    <img src="img/Artboard_1.png" width="250" height="67" />
     
 	<div class="box">
       <form action="validateuser.php" method="post">

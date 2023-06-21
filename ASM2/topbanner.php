@@ -20,7 +20,7 @@
 <div class="top_banner">
 <div class="logo">
 <a href="index.php">
-<img src="img/Artboard_2.png" width="217" height="50" /></a></div>
+<img src="img/Artboard_2.png" width="120" height="55" /></a></div>
 <div class="shoppingcart">
     <a href="?page=addcart&cart=<? echo($GLOBALS['cart']) ?>">
         

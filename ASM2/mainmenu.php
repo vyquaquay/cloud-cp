@@ -9,7 +9,7 @@
 <div class="menumid"><div class="menutext"><strong><a href="?page=polices&cart=<? echo($GLOBALS['cart']) ?>">Policies</a></strong></div>
 </div>
 
-<div class="menumid"><div class="menutext"><strong><a href="?page=aboutus&cart=<? echo($GLOBALS['cart']) ?>">About Me</a></strong></div>
+<div class="menumid"><div class="menutext"><strong><a href="?page=aboutus&cart=<? echo($GLOBALS['cart']) ?>">About Us</a></strong></div>
 </div>
 
 <div class="menuright"><div class="menutext"><strong><a href="?page=contact&cart=<? echo($GLOBALS['cart']) ?>">Contact Me</a></strong></div>
